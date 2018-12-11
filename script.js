@@ -1,8 +1,11 @@
-
-
-  $(document).ready(function(){
+function carousel() {
+	$(document).ready(function(){
     $('.carousel').carousel();
   });
+
+
+}
+ 
 
  var instance = M.Carousel.init({
     fullWidth: true,
