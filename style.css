@@ -1,0 +1,22 @@
+h1 {
+	letter-spacing:3px;
+
+}
+h6{
+	letter-spacing: 1px;
+	line-height:2;
+	text-decoration-color: black;
+	font-weight: 440;
+}
+
+h3{
+	line-height: 3;
+	text-decoration: underline;
+}
+
+collapsible-header {
+	background-color: black;
+
+}
+
+
